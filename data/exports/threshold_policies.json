@@ -1,0 +1,74 @@
+[
+  {
+    "policy_id": "POL-2026-000001",
+    "product_id": "PROD-001",
+    "minimum_temperature": -80.0,
+    "maximum_temperature": -60.0,
+    "allowed_excursion_duration": 30,
+    "effective_from": "2026-10-30T11:15:02.898461+00:00",
+    "effective_until": null,
+    "policy_version": "v1.0",
+    "policy_status": "ACTIVE",
+    "created_at": "2026-10-30T11:15:02.898461+00:00"
+  },
+  {
+    "policy_id": "POL-2026-000002",
+    "product_id": "PROD-002",
+    "minimum_temperature": 2.0,
+    "maximum_temperature": 8.0,
+    "allowed_excursion_duration": 60,
+    "effective_from": "2026-10-30T11:15:02.898461+00:00",
+    "effective_until": null,
+    "policy_version": "v1.0",
+    "policy_status": "ACTIVE",
+    "created_at": "2026-10-30T11:15:02.898461+00:00"
+  },
+  {
+    "policy_id": "POL-2026-000003",
+    "product_id": "PROD-003",
+    "minimum_temperature": 2.0,
+    "maximum_temperature": 8.0,
+    "allowed_excursion_duration": 45,
+    "effective_from": "2026-10-30T11:15:02.898461+00:00",
+    "effective_until": null,
+    "policy_version": "v1.0",
+    "policy_status": "ACTIVE",
+    "created_at": "2026-10-30T11:15:02.898461+00:00"
+  },
+  {
+    "policy_id": "POL-2026-000004",
+    "product_id": "PROD-004",
+    "minimum_temperature": 2.0,
+    "maximum_temperature": 8.0,
+    "allowed_excursion_duration": 90,
+    "effective_from": "2026-10-30T11:15:02.898461+00:00",
+    "effective_until": null,
+    "policy_version": "v1.0",
+    "policy_status": "ACTIVE",
+    "created_at": "2026-10-30T11:15:02.898461+00:00"
+  },
+  {
+    "policy_id": "POL-2026-000005",
+    "product_id": "PROD-005",
+    "minimum_temperature": -196.0,
+    "maximum_temperature": -150.0,
+    "allowed_excursion_duration": 15,
+    "effective_from": "2026-10-30T11:15:02.898461+00:00",
+    "effective_until": null,
+    "policy_version": "v1.0",
+    "policy_status": "ACTIVE",
+    "created_at": "2026-10-30T11:15:02.898461+00:00"
+  },
+  {
+    "policy_id": "POL-2026-000006",
+    "product_id": "PROD-006",
+    "minimum_temperature": 20.0,
+    "maximum_temperature": 24.0,
+    "allowed_excursion_duration": 120,
+    "effective_from": "2026-10-30T11:15:02.898461+00:00",
+    "effective_until": null,
+    "policy_version": "v1.0",
+    "policy_status": "ACTIVE",
+    "created_at": "2026-10-30T11:15:02.898461+00:00"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "packaging_id": "PKG-001",
+    "packaging_name": "AeroChill VIP Ultra 2-8C",
+    "packaging_type": "VIP_CONTAINER",
+    "minimum_temperature": 2.0,
+    "maximum_temperature": 8.0,
+    "validated_duration": 96,
+    "insulation_type": "VACUUM_INSULATED_PANEL",
+    "status": "QUALIFIED",
+    "created_at": "2026-10-30T11:15:02.898461+00:00"
+  },
+  {
+    "packaging_id": "PKG-002",
+    "packaging_name": "CryoShipper DeepFreeze -80C",
+    "packaging_type": "DRY_ICE_SHIPPER",
+    "minimum_temperature": -90.0,
+    "maximum_temperature": -60.0,
+    "validated_duration": 120,
+    "insulation_type": "DRY_ICE_VACUUM",
+    "status": "QUALIFIED",
+    "created_at": "2026-10-30T11:15:02.898461+00:00"
+  },
+  {
+    "packaging_id": "PKG-003",
+    "packaging_name": "BioShield Controlled Room 15-25C",
+    "packaging_type": "GEL_PACK_BOX",
+    "minimum_temperature": 15.0,
+    "maximum_temperature": 25.0,
+    "validated_duration": 72,
+    "insulation_type": "POLYURETHANE",
+    "status": "QUALIFIED",
+    "created_at": "2026-10-30T11:15:02.898461+00:00"
+  },
+  {
+    "packaging_id": "PKG-004",
+    "packaging_name": "PolarGuard Active Reefer Unit",
+    "packaging_type": "ACTIVE_REEFER",
+    "minimum_temperature": 2.0,
+    "maximum_temperature": 8.0,
+    "validated_duration": 168,
+    "insulation_type": "EXPANDED_POLYSTYRENE",
+    "status": "QUALIFIED",
+    "created_at": "2026-10-30T11:15:02.898461+00:00"
+  },
+  {
+    "packaging_id": "PKG-005",
+    "packaging_name": "CryoSafe Liquid Nitrogen Vapor",
+    "packaging_type": "CRYOGENIC_DEWAR",
+    "minimum_temperature": -196.0,
+    "maximum_temperature": -150.0,
+    "validated_duration": 240,
+    "insulation_type": "SUPER_INSULATION_JACKET",
+    "status": "QUALIFIED",
+    "created_at": "2026-10-30T11:15:02.898461+00:00"
+  }
+]

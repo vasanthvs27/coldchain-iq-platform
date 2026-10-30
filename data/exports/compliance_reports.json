@@ -1,0 +1,1255 @@
+[
+  {
+    "report_id": "COMP-SHP-2026-000005",
+    "shipment_id": "SHP-2026-000005",
+    "product_id": "PROD-002",
+    "lot_id": "LOT-2026-000002",
+    "compliance_status": "NON_COMPLIANT",
+    "compliance_score": 10.0,
+    "total_readings": 260,
+    "valid_readings": 260,
+    "missing_readings": 3065,
+    "excursion_count": 1,
+    "maximum_deviation": 73.05,
+    "maximum_excursion_duration": 1270,
+    "calibration_status": "EXPIRED",
+    "custody_completeness": 100.0,
+    "policy_version": "v1.0",
+    "reason_codes": [
+      "LOGGER_CALIBRATION_EXPIRED",
+      "MISSING_DATA",
+      "TEMPERATURE_EXCURSION_EXCEEDED"
+    ],
+    "evidence_references": [
+      "Logger LOG-2026-0005 calibration expired on 2026-07-25T00:00:00+00:00",
+      "Missing Telemetry Gaps: Expected reading completeness is 0.0%. Detected 1 gaps totaling 3065 missing intervals.",
+      "Excursion EXCR-SHP-2026-000-01 duration (1270 mins) exceeded allowable limit (60 mins). Observed: [-71.05\u00b0C, -69.2\u00b0C]."
+    ],
+    "generated_at": "2026-10-30T11:47:08.910156+00:00"
+  },
+  {
+    "report_id": "COMP-SHP-2026-000006",
+    "shipment_id": "SHP-2026-000006",
+    "product_id": "PROD-002",
+    "lot_id": "LOT-2026-000004",
+    "compliance_status": "NON_COMPLIANT",
+    "compliance_score": 10.0,
+    "total_readings": 271,
+    "valid_readings": 271,
+    "missing_readings": 792,
+    "excursion_count": 1,
+    "maximum_deviation": 15.24,
+    "maximum_excursion_duration": 1450,
+    "calibration_status": "EXPIRED",
+    "custody_completeness": 100.0,
+    "policy_version": "v1.0",
+    "reason_codes": [
+      "LOGGER_CALIBRATION_EXPIRED",
+      "MISSING_DATA",
+      "TEMPERATURE_EXCURSION_EXCEEDED"
+    ],
+    "evidence_references": [
+      "Logger LOG-2026-0001 calibration expired on 2026-07-11T00:00:00+00:00",
+      "Logger LOG-2026-0006 calibration expired on 2026-06-16T00:00:00+00:00",
+      "Missing Telemetry Gaps: Expected reading completeness is 0.0%. Detected 2 gaps totaling 792 missing intervals.",
+      "Excursion EXCR-SHP-2026-000-01 duration (1450 mins) exceeded allowable limit (60 mins). Observed: [20.79\u00b0C, 23.24\u00b0C]."
+    ],
+    "generated_at": "2026-10-30T11:47:14.069431+00:00"
+  },
+  {
+    "report_id": "COMP-SHP-2026-000007",
+    "shipment_id": "SHP-2026-000007",
+    "product_id": "PROD-002",
+    "lot_id": "LOT-2026-000002",
+    "compliance_status": "NON_COMPLIANT",
+    "compliance_score": 10.0,
+    "total_readings": 277,
+    "valid_readings": 277,
+    "missing_readings": 4074,
+    "excursion_count": 2,
+    "maximum_deviation": 19.45,
+    "maximum_excursion_duration": 1330,
+    "calibration_status": "EXPIRED",
+    "custody_completeness": 100.0,
+    "policy_version": "v1.0",
+    "reason_codes": [
+      "LOGGER_CALIBRATION_EXPIRED",
+      "MISSING_DATA",
+      "TEMPERATURE_EXCURSION_EXCEEDED"
+    ],
+    "evidence_references": [
+      "Logger LOG-2026-0002 calibration expired on 2026-06-09T00:00:00+00:00",
+      "Logger LOG-2026-0007 calibration expired on 2026-07-16T00:00:00+00:00",
+      "Missing Telemetry Gaps: Expected reading completeness is 0.0%. Detected 2 gaps totaling 4074 missing intervals.",
+      "Excursion EXCR-SHP-2026-000-01 duration (100 mins) exceeded allowable limit (60 mins). Observed: [11.45\u00b0C, 11.45\u00b0C].",
+      "Excursion EXCR-SHP-2026-000-02 duration (1330 mins) exceeded allowable limit (60 mins). Observed: [20.86\u00b0C, 27.45\u00b0C]."
+    ],
+    "generated_at": "2026-10-30T11:47:19.379229+00:00"
+  },
+  {
+    "report_id": "COMP-SHP-2026-000008",
+    "shipment_id": "SHP-2026-000008",
+    "product_id": "PROD-002",
+    "lot_id": "LOT-2026-000002",
+    "compliance_status": "NON_COMPLIANT",
+    "compliance_score": 10.0,
+    "total_readings": 278,
+    "valid_readings": 278,
+    "missing_readings": 581,
+    "excursion_count": 1,
+    "maximum_deviation": 73.05,
+    "maximum_excursion_duration": 1330,
+    "calibration_status": "EXPIRED",
+    "custody_completeness": 100.0,
+    "policy_version": "v1.0",
+    "reason_codes": [
+      "LOGGER_CALIBRATION_EXPIRED",
+      "MISSING_DATA",
+      "TEMPERATURE_EXCURSION_EXCEEDED"
+    ],
+    "evidence_references": [
+      "Logger LOG-2026-0003 calibration expired on 2026-10-04T00:00:00+00:00",
+      "Logger LOG-2026-0008 calibration expired on 2026-08-24T00:00:00+00:00",
+      "Missing Telemetry Gaps: Expected reading completeness is 0.0%. Detected 1 gaps totaling 581 missing intervals.",
+      "Excursion EXCR-SHP-2026-000-01 duration (1330 mins) exceeded allowable limit (60 mins). Observed: [-71.05\u00b0C, -68.58\u00b0C]."
+    ],
+    "generated_at": "2026-10-30T11:47:24.49522+00:00"
+  },
+  {
+    "report_id": "COMP-SHP-2026-000001",
+    "shipment_id": "SHP-2026-000001",
+    "product_id": "PROD-001",
+    "lot_id": "LOT-2026-000009",
+    "compliance_status": "NON_COMPLIANT",
+    "compliance_score": 10.0,
+    "total_readings": 272,
+    "valid_readings": 0,
+    "missing_readings": 383,
+    "excursion_count": 1,
+    "maximum_deviation": 65.81,
+    "maximum_excursion_duration": 1690,
+    "calibration_status": "VALID",
+    "custody_completeness": 100.0,
+    "policy_version": "v1.0",
+    "reason_codes": [
+      "UNASSIGNED_LOGGER",
+      "MISSING_DATA",
+      "TEMPERATURE_EXCURSION_EXCEEDED"
+    ],
+    "evidence_references": [
+      "272 temperature readings were recorded by unassigned data loggers.",
+      "Missing Telemetry Gaps: Expected reading completeness is 0.0%. Detected 1 gaps totaling 383 missing intervals.",
+      "Excursion EXCR-SHP-2026-000-01 duration (1690 mins) exceeded allowable limit (30 mins). Observed: [3.83\u00b0C, 5.81\u00b0C]."
+    ],
+    "generated_at": "2026-10-30T11:46:49.286149+00:00"
+  },
+  {
+    "report_id": "COMP-SHP-2026-000002",
+    "shipment_id": "SHP-2026-000002",
+    "product_id": "PROD-005",
+    "lot_id": "LOT-2026-000008",
+    "compliance_status": "INCONCLUSIVE",
+    "compliance_score": 30.0,
+    "total_readings": 146,
+    "valid_readings": 146,
+    "missing_readings": 395,
+    "excursion_count": 0,
+    "maximum_deviation": 0.0,
+    "maximum_excursion_duration": 0,
+    "calibration_status": "EXPIRED",
+    "custody_completeness": 100.0,
+    "policy_version": "v1.0",
+    "reason_codes": [
+      "LOGGER_CALIBRATION_EXPIRED",
+      "MISSING_DATA"
+    ],
+    "evidence_references": [
+      "Logger LOG-2026-0002 calibration expired on 2026-06-09T00:00:00+00:00",
+      "Missing Telemetry Gaps: Expected reading completeness is 0.0%. Detected 1 gaps totaling 395 missing intervals."
+    ],
+    "generated_at": "2026-10-30T11:46:54.648509+00:00"
+  },
+  {
+    "report_id": "COMP-SHP-2026-000003",
+    "shipment_id": "SHP-2026-000003",
+    "product_id": "PROD-003",
+    "lot_id": "LOT-2026-000005",
+    "compliance_status": "INCONCLUSIVE",
+    "compliance_score": 30.0,
+    "total_readings": 240,
+    "valid_readings": 240,
+    "missing_readings": 3415,
+    "excursion_count": 0,
+    "maximum_deviation": 0.0,
+    "maximum_excursion_duration": 0,
+    "calibration_status": "EXPIRED",
+    "custody_completeness": 100.0,
+    "policy_version": "v1.0",
+    "reason_codes": [
+      "LOGGER_CALIBRATION_EXPIRED",
+      "MISSING_DATA"
+    ],
+    "evidence_references": [
+      "Logger LOG-2026-0003 calibration expired on 2026-10-04T00:00:00+00:00",
+      "Missing Telemetry Gaps: Expected reading completeness is 0.0%. Detected 2 gaps totaling 3415 missing intervals."
+    ],
+    "generated_at": "2026-10-30T11:46:59.45962+00:00"
+  },
+  {
+    "report_id": "COMP-SHP-2026-000004",
+    "shipment_id": "SHP-2026-000004",
+    "product_id": "PROD-002",
+    "lot_id": "LOT-2026-000003",
+    "compliance_status": "INCONCLUSIVE",
+    "compliance_score": 30.0,
+    "total_readings": 91,
+    "valid_readings": 91,
+    "missing_readings": 3282,
+    "excursion_count": 0,
+    "maximum_deviation": 0.0,
+    "maximum_excursion_duration": 0,
+    "calibration_status": "EXPIRED",
+    "custody_completeness": 0.0,
+    "policy_version": "v1.0",
+    "reason_codes": [
+      "CUSTODY_GAP",
+      "LOGGER_CALIBRATION_EXPIRED",
+      "MISSING_DATA"
+    ],
+    "evidence_references": [
+      "Logger LOG-2026-0004 calibration expired on 2026-04-24T00:00:00+00:00",
+      "Missing Telemetry Gaps: Expected reading completeness is 0.0%. Detected 2 gaps totaling 3282 missing intervals.",
+      "Custody handoff broken: FedEx ColdChain Direct Pickup Crew was expected to transfer custody, but record shows Unknown Freight Broker handing off."
+    ],
+    "generated_at": "2026-10-30T11:47:04.180562+00:00"
+  },
+  {
+    "report_id": "COMP-SHP-2026-000009",
+    "shipment_id": "SHP-2026-000009",
+    "product_id": "PROD-002",
+    "lot_id": "LOT-2026-000007",
+    "compliance_status": "NON_COMPLIANT",
+    "compliance_score": 10.0,
+    "total_readings": 133,
+    "valid_readings": 133,
+    "missing_readings": 3599,
+    "excursion_count": 1,
+    "maximum_deviation": 175.86,
+    "maximum_excursion_duration": 540,
+    "calibration_status": "EXPIRED",
+    "custody_completeness": 100.0,
+    "policy_version": "v1.0",
+    "reason_codes": [
+      "LOGGER_CALIBRATION_EXPIRED",
+      "MISSING_DATA",
+      "TEMPERATURE_EXCURSION_EXCEEDED"
+    ],
+    "evidence_references": [
+      "Logger LOG-2026-0004 calibration expired on 2026-04-24T00:00:00+00:00",
+      "Logger LOG-2026-0009 calibration expired on 2026-04-22T00:00:00+00:00",
+      "Missing Telemetry Gaps: Expected reading completeness is 0.0%. Detected 1 gaps totaling 3599 missing intervals.",
+      "Excursion EXCR-SHP-2026-000-01 duration (540 mins) exceeded allowable limit (60 mins). Observed: [-173.86\u00b0C, -172.07\u00b0C]."
+    ],
+    "generated_at": "2026-10-30T11:47:29.79804+00:00"
+  },
+  {
+    "report_id": "COMP-SHP-2026-000010",
+    "shipment_id": "SHP-2026-000010",
+    "product_id": "PROD-005",
+    "lot_id": "LOT-2026-000008",
+    "compliance_status": "NON_COMPLIANT",
+    "compliance_score": 10.0,
+    "total_readings": 260,
+    "valid_readings": 260,
+    "missing_readings": 0,
+    "excursion_count": 80,
+    "maximum_deviation": 155.99,
+    "maximum_excursion_duration": 720,
+    "calibration_status": "EXPIRED",
+    "custody_completeness": 100.0,
+    "policy_version": "v1.0",
+    "reason_codes": [
+      "LOGGER_CALIBRATION_EXPIRED",
+      "TEMPERATURE_EXCURSION_EXCEEDED"
+    ],
+    "evidence_references": [
+      "Logger LOG-2026-0005 calibration expired on 2026-07-25T00:00:00+00:00",
+      "Logger LOG-2026-0010 calibration expired on 2026-09-06T00:00:00+00:00",
+      "Excursion EXCR-SHP-2026-000-01 duration (720 mins) exceeded allowable limit (15 mins). Observed: [4.32\u00b0C, 5.99\u00b0C].",
+      "Excursion EXCR-SHP-2026-000-80 duration (310 mins) exceeded allowable limit (15 mins). Observed: [4.13\u00b0C, 5.76\u00b0C]."
+    ],
+    "generated_at": "2026-10-30T11:47:35.180323+00:00"
+  },
+  {
+    "report_id": "COMP-SHP-2026-000011",
+    "shipment_id": "SHP-2026-000011",
+    "product_id": "PROD-005",
+    "lot_id": "LOT-2026-000008",
+    "compliance_status": "NON_COMPLIANT",
+    "compliance_score": 38.3,
+    "total_readings": 133,
+    "valid_readings": 133,
+    "missing_readings": 0,
+    "excursion_count": 1,
+    "maximum_deviation": 2.85,
+    "maximum_excursion_duration": 80,
+    "calibration_status": "EXPIRED",
+    "custody_completeness": 100.0,
+    "policy_version": "v1.0",
+    "reason_codes": [
+      "LOGGER_CALIBRATION_EXPIRED",
+      "TEMPERATURE_EXCURSION_EXCEEDED"
+    ],
+    "evidence_references": [
+      "Logger LOG-2026-0011 calibration expired on 2026-10-04T00:00:00+00:00",
+      "Excursion EXCR-SHP-2026-000-01 duration (80 mins) exceeded allowable limit (15 mins). Observed: [-198.85\u00b0C, -198.85\u00b0C]."
+    ],
+    "generated_at": "2026-10-30T11:47:39.995168+00:00"
+  },
+  {
+    "report_id": "COMP-SHP-2026-000012",
+    "shipment_id": "SHP-2026-000012",
+    "product_id": "PROD-001",
+    "lot_id": "LOT-2026-000009",
+    "compliance_status": "INCONCLUSIVE",
+    "compliance_score": 70.0,
+    "total_readings": 85,
+    "valid_readings": 85,
+    "missing_readings": 0,
+    "excursion_count": 0,
+    "maximum_deviation": 0.0,
+    "maximum_excursion_duration": 0,
+    "calibration_status": "EXPIRED",
+    "custody_completeness": 100.0,
+    "policy_version": "v1.0",
+    "reason_codes": [
+      "LOGGER_CALIBRATION_EXPIRED"
+    ],
+    "evidence_references": [
+      "Logger LOG-2026-0012 calibration expired on 2026-04-15T00:00:00+00:00"
+    ],
+    "generated_at": "2026-10-30T11:47:44.959277+00:00"
+  },
+  {
+    "report_id": "COMP-SHP-2026-000013",
+    "shipment_id": "SHP-2026-000013",
+    "product_id": "PROD-001",
+    "lot_id": "LOT-2026-000009",
+    "compliance_status": "INCONCLUSIVE",
+    "compliance_score": 70.0,
+    "total_readings": 85,
+    "valid_readings": 85,
+    "missing_readings": 0,
+    "excursion_count": 0,
+    "maximum_deviation": 0.0,
+    "maximum_excursion_duration": 0,
+    "calibration_status": "EXPIRED",
+    "custody_completeness": 100.0,
+    "policy_version": "v1.0",
+    "reason_codes": [
+      "LOGGER_CALIBRATION_EXPIRED"
+    ],
+    "evidence_references": [
+      "Logger LOG-2026-0013 calibration expired on 2026-07-30T00:00:00+00:00"
+    ],
+    "generated_at": "2026-10-30T11:47:50.583438+00:00"
+  },
+  {
+    "report_id": "COMP-SHP-2026-000014",
+    "shipment_id": "SHP-2026-000014",
+    "product_id": "PROD-006",
+    "lot_id": "LOT-2026-000001",
+    "compliance_status": "INCONCLUSIVE",
+    "compliance_score": 70.0,
+    "total_readings": 121,
+    "valid_readings": 121,
+    "missing_readings": 0,
+    "excursion_count": 1,
+    "maximum_deviation": 3.45,
+    "maximum_excursion_duration": 100,
+    "calibration_status": "EXPIRED",
+    "custody_completeness": 100.0,
+    "policy_version": "v1.0",
+    "reason_codes": [
+      "LOGGER_CALIBRATION_EXPIRED"
+    ],
+    "evidence_references": [
+      "Logger LOG-2026-0014 calibration expired on 2026-07-15T00:00:00+00:00"
+    ],
+    "generated_at": "2026-10-30T11:47:56.154626+00:00"
+  },
+  {
+    "report_id": "COMP-SHP-2026-000016",
+    "shipment_id": "SHP-2026-000016",
+    "product_id": "PROD-005",
+    "lot_id": "LOT-2026-000006",
+    "compliance_status": "INCONCLUSIVE",
+    "compliance_score": 70.0,
+    "total_readings": 151,
+    "valid_readings": 151,
+    "missing_readings": 0,
+    "excursion_count": 0,
+    "maximum_deviation": 0.0,
+    "maximum_excursion_duration": 0,
+    "calibration_status": "EXPIRED",
+    "custody_completeness": 100.0,
+    "policy_version": "v1.0",
+    "reason_codes": [
+      "LOGGER_CALIBRATION_EXPIRED"
+    ],
+    "evidence_references": [
+      "Logger LOG-2026-0016 calibration expired on 2026-05-17T00:00:00+00:00"
+    ],
+    "generated_at": "2026-10-30T11:48:08.326314+00:00"
+  },
+  {
+    "report_id": "COMP-SHP-2026-000017",
+    "shipment_id": "SHP-2026-000017",
+    "product_id": "PROD-005",
+    "lot_id": "LOT-2026-000008",
+    "compliance_status": "INCONCLUSIVE",
+    "compliance_score": 70.0,
+    "total_readings": 79,
+    "valid_readings": 79,
+    "missing_readings": 0,
+    "excursion_count": 0,
+    "maximum_deviation": 0.0,
+    "maximum_excursion_duration": 0,
+    "calibration_status": "EXPIRED",
+    "custody_completeness": 100.0,
+    "policy_version": "v1.0",
+    "reason_codes": [
+      "LOGGER_CALIBRATION_EXPIRED"
+    ],
+    "evidence_references": [
+      "Logger LOG-2026-0017 calibration expired on 2026-06-08T00:00:00+00:00"
+    ],
+    "generated_at": "2026-10-30T11:48:14.664389+00:00"
+  },
+  {
+    "report_id": "COMP-SHP-2026-000018",
+    "shipment_id": "SHP-2026-000018",
+    "product_id": "PROD-005",
+    "lot_id": "LOT-2026-000006",
+    "compliance_status": "INCONCLUSIVE",
+    "compliance_score": 70.0,
+    "total_readings": 97,
+    "valid_readings": 97,
+    "missing_readings": 0,
+    "excursion_count": 0,
+    "maximum_deviation": 0.0,
+    "maximum_excursion_duration": 0,
+    "calibration_status": "EXPIRED",
+    "custody_completeness": 100.0,
+    "policy_version": "v1.0",
+    "reason_codes": [
+      "LOGGER_CALIBRATION_EXPIRED"
+    ],
+    "evidence_references": [
+      "Logger LOG-2026-0018 calibration expired on 2026-07-18T00:00:00+00:00"
+    ],
+    "generated_at": "2026-10-30T11:48:19.657897+00:00"
+  },
+  {
+    "report_id": "COMP-SHP-2026-000020",
+    "shipment_id": "SHP-2026-000020",
+    "product_id": "PROD-005",
+    "lot_id": "LOT-2026-000008",
+    "compliance_status": "INCONCLUSIVE",
+    "compliance_score": 70.0,
+    "total_readings": 91,
+    "valid_readings": 91,
+    "missing_readings": 0,
+    "excursion_count": 0,
+    "maximum_deviation": 0.0,
+    "maximum_excursion_duration": 0,
+    "calibration_status": "EXPIRED",
+    "custody_completeness": 100.0,
+    "policy_version": "v1.0",
+    "reason_codes": [
+      "LOGGER_CALIBRATION_EXPIRED"
+    ],
+    "evidence_references": [
+      "Logger LOG-2026-0020 calibration expired on 2026-09-01T00:00:00+00:00"
+    ],
+    "generated_at": "2026-10-30T11:48:29.86344+00:00"
+  },
+  {
+    "report_id": "COMP-SHP-2026-000021",
+    "shipment_id": "SHP-2026-000021",
+    "product_id": "PROD-006",
+    "lot_id": "LOT-2026-000001",
+    "compliance_status": "INCONCLUSIVE",
+    "compliance_score": 70.0,
+    "total_readings": 127,
+    "valid_readings": 127,
+    "missing_readings": 0,
+    "excursion_count": 1,
+    "maximum_deviation": 3.45,
+    "maximum_excursion_duration": 100,
+    "calibration_status": "EXPIRED",
+    "custody_completeness": 100.0,
+    "policy_version": "v1.0",
+    "reason_codes": [
+      "LOGGER_CALIBRATION_EXPIRED"
+    ],
+    "evidence_references": [
+      "Logger LOG-2026-0001 calibration expired on 2026-07-11T00:00:00+00:00"
+    ],
+    "generated_at": "2026-10-30T11:48:35.728315+00:00"
+  },
+  {
+    "report_id": "COMP-SHP-2026-000022",
+    "shipment_id": "SHP-2026-000022",
+    "product_id": "PROD-001",
+    "lot_id": "LOT-2026-000009",
+    "compliance_status": "NON_COMPLIANT",
+    "compliance_score": 38.3,
+    "total_readings": 79,
+    "valid_readings": 79,
+    "missing_readings": 0,
+    "excursion_count": 1,
+    "maximum_deviation": 2.85,
+    "maximum_excursion_duration": 80,
+    "calibration_status": "EXPIRED",
+    "custody_completeness": 100.0,
+    "policy_version": "v1.0",
+    "reason_codes": [
+      "LOGGER_CALIBRATION_EXPIRED",
+      "TEMPERATURE_EXCURSION_EXCEEDED"
+    ],
+    "evidence_references": [
+      "Logger LOG-2026-0002 calibration expired on 2026-06-09T00:00:00+00:00",
+      "Excursion EXCR-SHP-2026-000-01 duration (80 mins) exceeded allowable limit (30 mins). Observed: [-82.85\u00b0C, -82.85\u00b0C]."
+    ],
+    "generated_at": "2026-10-30T11:48:41.201396+00:00"
+  },
+  {
+    "report_id": "COMP-SHP-2026-000024",
+    "shipment_id": "SHP-2026-000024",
+    "product_id": "PROD-005",
+    "lot_id": "LOT-2026-000006",
+    "compliance_status": "INCONCLUSIVE",
+    "compliance_score": 70.0,
+    "total_readings": 133,
+    "valid_readings": 133,
+    "missing_readings": 0,
+    "excursion_count": 0,
+    "maximum_deviation": 0.0,
+    "maximum_excursion_duration": 0,
+    "calibration_status": "EXPIRED",
+    "custody_completeness": 100.0,
+    "policy_version": "v1.0",
+    "reason_codes": [
+      "LOGGER_CALIBRATION_EXPIRED"
+    ],
+    "evidence_references": [
+      "Logger LOG-2026-0004 calibration expired on 2026-04-24T00:00:00+00:00"
+    ],
+    "generated_at": "2026-10-30T11:48:52.900787+00:00"
+  },
+  {
+    "report_id": "COMP-SHP-2026-000025",
+    "shipment_id": "SHP-2026-000025",
+    "product_id": "PROD-006",
+    "lot_id": "LOT-2026-000001",
+    "compliance_status": "INCONCLUSIVE",
+    "compliance_score": 70.0,
+    "total_readings": 91,
+    "valid_readings": 91,
+    "missing_readings": 0,
+    "excursion_count": 0,
+    "maximum_deviation": 0.0,
+    "maximum_excursion_duration": 0,
+    "calibration_status": "EXPIRED",
+    "custody_completeness": 100.0,
+    "policy_version": "v1.0",
+    "reason_codes": [
+      "LOGGER_CALIBRATION_EXPIRED"
+    ],
+    "evidence_references": [
+      "Logger LOG-2026-0005 calibration expired on 2026-07-25T00:00:00+00:00"
+    ],
+    "generated_at": "2026-10-30T11:48:58.486293+00:00"
+  },
+  {
+    "report_id": "COMP-SHP-2026-000026",
+    "shipment_id": "SHP-2026-000026",
+    "product_id": "PROD-003",
+    "lot_id": "LOT-2026-000005",
+    "compliance_status": "INCONCLUSIVE",
+    "compliance_score": 70.0,
+    "total_readings": 85,
+    "valid_readings": 85,
+    "missing_readings": 0,
+    "excursion_count": 0,
+    "maximum_deviation": 0.0,
+    "maximum_excursion_duration": 0,
+    "calibration_status": "EXPIRED",
+    "custody_completeness": 100.0,
+    "policy_version": "v1.0",
+    "reason_codes": [
+      "LOGGER_CALIBRATION_EXPIRED"
+    ],
+    "evidence_references": [
+      "Logger LOG-2026-0006 calibration expired on 2026-06-16T00:00:00+00:00"
+    ],
+    "generated_at": "2026-10-30T11:49:03.929845+00:00"
+  },
+  {
+    "report_id": "COMP-SHP-2026-000028",
+    "shipment_id": "SHP-2026-000028",
+    "product_id": "PROD-002",
+    "lot_id": "LOT-2026-000002",
+    "compliance_status": "NON_COMPLIANT",
+    "compliance_score": 33.1,
+    "total_readings": 91,
+    "valid_readings": 91,
+    "missing_readings": 0,
+    "excursion_count": 1,
+    "maximum_deviation": 3.45,
+    "maximum_excursion_duration": 100,
+    "calibration_status": "EXPIRED",
+    "custody_completeness": 100.0,
+    "policy_version": "v1.0",
+    "reason_codes": [
+      "LOGGER_CALIBRATION_EXPIRED",
+      "TEMPERATURE_EXCURSION_EXCEEDED"
+    ],
+    "evidence_references": [
+      "Logger LOG-2026-0008 calibration expired on 2026-08-24T00:00:00+00:00",
+      "Excursion EXCR-SHP-2026-000-01 duration (100 mins) exceeded allowable limit (60 mins). Observed: [11.45\u00b0C, 11.45\u00b0C]."
+    ],
+    "generated_at": "2026-10-30T11:49:14.683274+00:00"
+  },
+  {
+    "report_id": "COMP-SHP-2026-000029",
+    "shipment_id": "SHP-2026-000029",
+    "product_id": "PROD-002",
+    "lot_id": "LOT-2026-000007",
+    "compliance_status": "INCONCLUSIVE",
+    "compliance_score": 70.0,
+    "total_readings": 133,
+    "valid_readings": 133,
+    "missing_readings": 0,
+    "excursion_count": 0,
+    "maximum_deviation": 0.0,
+    "maximum_excursion_duration": 0,
+    "calibration_status": "EXPIRED",
+    "custody_completeness": 100.0,
+    "policy_version": "v1.0",
+    "reason_codes": [
+      "LOGGER_CALIBRATION_EXPIRED"
+    ],
+    "evidence_references": [
+      "Logger LOG-2026-0009 calibration expired on 2026-04-22T00:00:00+00:00"
+    ],
+    "generated_at": "2026-10-30T11:49:21.46072+00:00"
+  },
+  {
+    "report_id": "COMP-SHP-2026-000030",
+    "shipment_id": "SHP-2026-000030",
+    "product_id": "PROD-002",
+    "lot_id": "LOT-2026-000003",
+    "compliance_status": "INCONCLUSIVE",
+    "compliance_score": 70.0,
+    "total_readings": 169,
+    "valid_readings": 169,
+    "missing_readings": 0,
+    "excursion_count": 0,
+    "maximum_deviation": 0.0,
+    "maximum_excursion_duration": 0,
+    "calibration_status": "EXPIRED",
+    "custody_completeness": 100.0,
+    "policy_version": "v1.0",
+    "reason_codes": [
+      "LOGGER_CALIBRATION_EXPIRED"
+    ],
+    "evidence_references": [
+      "Logger LOG-2026-0010 calibration expired on 2026-09-06T00:00:00+00:00"
+    ],
+    "generated_at": "2026-10-30T11:49:27.822882+00:00"
+  },
+  {
+    "report_id": "COMP-SHP-2026-000032",
+    "shipment_id": "SHP-2026-000032",
+    "product_id": "PROD-002",
+    "lot_id": "LOT-2026-000003",
+    "compliance_status": "INCONCLUSIVE",
+    "compliance_score": 70.0,
+    "total_readings": 91,
+    "valid_readings": 91,
+    "missing_readings": 0,
+    "excursion_count": 0,
+    "maximum_deviation": 0.0,
+    "maximum_excursion_duration": 0,
+    "calibration_status": "EXPIRED",
+    "custody_completeness": 100.0,
+    "policy_version": "v1.0",
+    "reason_codes": [
+      "LOGGER_CALIBRATION_EXPIRED"
+    ],
+    "evidence_references": [
+      "Logger LOG-2026-0012 calibration expired on 2026-04-15T00:00:00+00:00"
+    ],
+    "generated_at": "2026-10-30T11:49:41.676139+00:00"
+  },
+  {
+    "report_id": "COMP-SHP-2026-000033",
+    "shipment_id": "SHP-2026-000033",
+    "product_id": "PROD-006",
+    "lot_id": "LOT-2026-000001",
+    "compliance_status": "INCONCLUSIVE",
+    "compliance_score": 70.0,
+    "total_readings": 139,
+    "valid_readings": 139,
+    "missing_readings": 0,
+    "excursion_count": 1,
+    "maximum_deviation": 2.85,
+    "maximum_excursion_duration": 80,
+    "calibration_status": "EXPIRED",
+    "custody_completeness": 100.0,
+    "policy_version": "v1.0",
+    "reason_codes": [
+      "LOGGER_CALIBRATION_EXPIRED"
+    ],
+    "evidence_references": [
+      "Logger LOG-2026-0013 calibration expired on 2026-07-30T00:00:00+00:00"
+    ],
+    "generated_at": "2026-10-30T11:49:46.70773+00:00"
+  },
+  {
+    "report_id": "COMP-SHP-2026-000015",
+    "shipment_id": "SHP-2026-000015",
+    "product_id": "PROD-005",
+    "lot_id": "LOT-2026-000006",
+    "compliance_status": "INCONCLUSIVE",
+    "compliance_score": 70.0,
+    "total_readings": 115,
+    "valid_readings": 115,
+    "missing_readings": 0,
+    "excursion_count": 0,
+    "maximum_deviation": 0.0,
+    "maximum_excursion_duration": 0,
+    "calibration_status": "EXPIRED",
+    "custody_completeness": 100.0,
+    "policy_version": "v1.0",
+    "reason_codes": [
+      "LOGGER_CALIBRATION_EXPIRED"
+    ],
+    "evidence_references": [
+      "Logger LOG-2026-0015 calibration expired on 2026-07-20T00:00:00+00:00"
+    ],
+    "generated_at": "2026-10-30T11:48:01.47858+00:00"
+  },
+  {
+    "report_id": "COMP-SHP-2026-000019",
+    "shipment_id": "SHP-2026-000019",
+    "product_id": "PROD-003",
+    "lot_id": "LOT-2026-000005",
+    "compliance_status": "INCONCLUSIVE",
+    "compliance_score": 70.0,
+    "total_readings": 91,
+    "valid_readings": 91,
+    "missing_readings": 0,
+    "excursion_count": 0,
+    "maximum_deviation": 0.0,
+    "maximum_excursion_duration": 0,
+    "calibration_status": "EXPIRED",
+    "custody_completeness": 100.0,
+    "policy_version": "v1.0",
+    "reason_codes": [
+      "LOGGER_CALIBRATION_EXPIRED"
+    ],
+    "evidence_references": [
+      "Logger LOG-2026-0019 calibration expired on 2026-09-01T00:00:00+00:00"
+    ],
+    "generated_at": "2026-10-30T11:48:24.514258+00:00"
+  },
+  {
+    "report_id": "COMP-SHP-2026-000023",
+    "shipment_id": "SHP-2026-000023",
+    "product_id": "PROD-003",
+    "lot_id": "LOT-2026-000005",
+    "compliance_status": "INCONCLUSIVE",
+    "compliance_score": 70.0,
+    "total_readings": 145,
+    "valid_readings": 145,
+    "missing_readings": 0,
+    "excursion_count": 0,
+    "maximum_deviation": 0.0,
+    "maximum_excursion_duration": 0,
+    "calibration_status": "EXPIRED",
+    "custody_completeness": 100.0,
+    "policy_version": "v1.0",
+    "reason_codes": [
+      "LOGGER_CALIBRATION_EXPIRED"
+    ],
+    "evidence_references": [
+      "Logger LOG-2026-0003 calibration expired on 2026-10-04T00:00:00+00:00"
+    ],
+    "generated_at": "2026-10-30T11:48:47.023016+00:00"
+  },
+  {
+    "report_id": "COMP-SHP-2026-000027",
+    "shipment_id": "SHP-2026-000027",
+    "product_id": "PROD-003",
+    "lot_id": "LOT-2026-000005",
+    "compliance_status": "INCONCLUSIVE",
+    "compliance_score": 70.0,
+    "total_readings": 169,
+    "valid_readings": 169,
+    "missing_readings": 0,
+    "excursion_count": 0,
+    "maximum_deviation": 0.0,
+    "maximum_excursion_duration": 0,
+    "calibration_status": "EXPIRED",
+    "custody_completeness": 100.0,
+    "policy_version": "v1.0",
+    "reason_codes": [
+      "LOGGER_CALIBRATION_EXPIRED"
+    ],
+    "evidence_references": [
+      "Logger LOG-2026-0007 calibration expired on 2026-07-16T00:00:00+00:00"
+    ],
+    "generated_at": "2026-10-30T11:49:09.460141+00:00"
+  },
+  {
+    "report_id": "COMP-SHP-2026-000031",
+    "shipment_id": "SHP-2026-000031",
+    "product_id": "PROD-003",
+    "lot_id": "LOT-2026-000005",
+    "compliance_status": "INCONCLUSIVE",
+    "compliance_score": 70.0,
+    "total_readings": 163,
+    "valid_readings": 163,
+    "missing_readings": 0,
+    "excursion_count": 0,
+    "maximum_deviation": 0.0,
+    "maximum_excursion_duration": 0,
+    "calibration_status": "EXPIRED",
+    "custody_completeness": 100.0,
+    "policy_version": "v1.0",
+    "reason_codes": [
+      "LOGGER_CALIBRATION_EXPIRED"
+    ],
+    "evidence_references": [
+      "Logger LOG-2026-0011 calibration expired on 2026-10-04T00:00:00+00:00"
+    ],
+    "generated_at": "2026-10-30T11:49:35.262973+00:00"
+  },
+  {
+    "report_id": "COMP-SHP-2026-000034",
+    "shipment_id": "SHP-2026-000034",
+    "product_id": "PROD-002",
+    "lot_id": "LOT-2026-000003",
+    "compliance_status": "INCONCLUSIVE",
+    "compliance_score": 70.0,
+    "total_readings": 103,
+    "valid_readings": 103,
+    "missing_readings": 0,
+    "excursion_count": 0,
+    "maximum_deviation": 0.0,
+    "maximum_excursion_duration": 0,
+    "calibration_status": "EXPIRED",
+    "custody_completeness": 100.0,
+    "policy_version": "v1.0",
+    "reason_codes": [
+      "LOGGER_CALIBRATION_EXPIRED"
+    ],
+    "evidence_references": [
+      "Logger LOG-2026-0014 calibration expired on 2026-07-15T00:00:00+00:00"
+    ],
+    "generated_at": "2026-10-30T11:49:52.112643+00:00"
+  },
+  {
+    "report_id": "COMP-SHP-2026-000035",
+    "shipment_id": "SHP-2026-000035",
+    "product_id": "PROD-002",
+    "lot_id": "LOT-2026-000003",
+    "compliance_status": "NON_COMPLIANT",
+    "compliance_score": 33.1,
+    "total_readings": 97,
+    "valid_readings": 97,
+    "missing_readings": 0,
+    "excursion_count": 1,
+    "maximum_deviation": 3.45,
+    "maximum_excursion_duration": 100,
+    "calibration_status": "EXPIRED",
+    "custody_completeness": 100.0,
+    "policy_version": "v1.0",
+    "reason_codes": [
+      "LOGGER_CALIBRATION_EXPIRED",
+      "TEMPERATURE_EXCURSION_EXCEEDED"
+    ],
+    "evidence_references": [
+      "Logger LOG-2026-0015 calibration expired on 2026-07-20T00:00:00+00:00",
+      "Excursion EXCR-SHP-2026-000-01 duration (100 mins) exceeded allowable limit (60 mins). Observed: [11.45\u00b0C, 11.45\u00b0C]."
+    ],
+    "generated_at": "2026-10-30T11:49:57.363346+00:00"
+  },
+  {
+    "report_id": "COMP-SHP-2026-000036",
+    "shipment_id": "SHP-2026-000036",
+    "product_id": "PROD-002",
+    "lot_id": "LOT-2026-000007",
+    "compliance_status": "INCONCLUSIVE",
+    "compliance_score": 70.0,
+    "total_readings": 103,
+    "valid_readings": 103,
+    "missing_readings": 0,
+    "excursion_count": 0,
+    "maximum_deviation": 0.0,
+    "maximum_excursion_duration": 0,
+    "calibration_status": "EXPIRED",
+    "custody_completeness": 100.0,
+    "policy_version": "v1.0",
+    "reason_codes": [
+      "LOGGER_CALIBRATION_EXPIRED"
+    ],
+    "evidence_references": [
+      "Logger LOG-2026-0016 calibration expired on 2026-05-17T00:00:00+00:00"
+    ],
+    "generated_at": "2026-10-30T11:50:02.189512+00:00"
+  },
+  {
+    "report_id": "COMP-SHP-2026-000037",
+    "shipment_id": "SHP-2026-000037",
+    "product_id": "PROD-005",
+    "lot_id": "LOT-2026-000006",
+    "compliance_status": "INCONCLUSIVE",
+    "compliance_score": 70.0,
+    "total_readings": 109,
+    "valid_readings": 109,
+    "missing_readings": 0,
+    "excursion_count": 0,
+    "maximum_deviation": 0.0,
+    "maximum_excursion_duration": 0,
+    "calibration_status": "EXPIRED",
+    "custody_completeness": 100.0,
+    "policy_version": "v1.0",
+    "reason_codes": [
+      "LOGGER_CALIBRATION_EXPIRED"
+    ],
+    "evidence_references": [
+      "Logger LOG-2026-0017 calibration expired on 2026-06-08T00:00:00+00:00"
+    ],
+    "generated_at": "2026-10-30T11:50:07.109738+00:00"
+  },
+  {
+    "report_id": "COMP-SHP-2026-000038",
+    "shipment_id": "SHP-2026-000038",
+    "product_id": "PROD-002",
+    "lot_id": "LOT-2026-000007",
+    "compliance_status": "INCONCLUSIVE",
+    "compliance_score": 70.0,
+    "total_readings": 181,
+    "valid_readings": 181,
+    "missing_readings": 0,
+    "excursion_count": 0,
+    "maximum_deviation": 0.0,
+    "maximum_excursion_duration": 0,
+    "calibration_status": "EXPIRED",
+    "custody_completeness": 100.0,
+    "policy_version": "v1.0",
+    "reason_codes": [
+      "LOGGER_CALIBRATION_EXPIRED"
+    ],
+    "evidence_references": [
+      "Logger LOG-2026-0018 calibration expired on 2026-07-18T00:00:00+00:00"
+    ],
+    "generated_at": "2026-10-30T11:50:12.438413+00:00"
+  },
+  {
+    "report_id": "COMP-SHP-2026-000039",
+    "shipment_id": "SHP-2026-000039",
+    "product_id": "PROD-003",
+    "lot_id": "LOT-2026-000005",
+    "compliance_status": "INCONCLUSIVE",
+    "compliance_score": 70.0,
+    "total_readings": 121,
+    "valid_readings": 121,
+    "missing_readings": 0,
+    "excursion_count": 0,
+    "maximum_deviation": 0.0,
+    "maximum_excursion_duration": 0,
+    "calibration_status": "EXPIRED",
+    "custody_completeness": 100.0,
+    "policy_version": "v1.0",
+    "reason_codes": [
+      "LOGGER_CALIBRATION_EXPIRED"
+    ],
+    "evidence_references": [
+      "Logger LOG-2026-0019 calibration expired on 2026-09-01T00:00:00+00:00"
+    ],
+    "generated_at": "2026-10-30T11:50:17.287536+00:00"
+  },
+  {
+    "report_id": "COMP-SHP-2026-000040",
+    "shipment_id": "SHP-2026-000040",
+    "product_id": "PROD-005",
+    "lot_id": "LOT-2026-000006",
+    "compliance_status": "INCONCLUSIVE",
+    "compliance_score": 70.0,
+    "total_readings": 175,
+    "valid_readings": 175,
+    "missing_readings": 0,
+    "excursion_count": 0,
+    "maximum_deviation": 0.0,
+    "maximum_excursion_duration": 0,
+    "calibration_status": "EXPIRED",
+    "custody_completeness": 100.0,
+    "policy_version": "v1.0",
+    "reason_codes": [
+      "LOGGER_CALIBRATION_EXPIRED"
+    ],
+    "evidence_references": [
+      "Logger LOG-2026-0020 calibration expired on 2026-09-01T00:00:00+00:00"
+    ],
+    "generated_at": "2026-10-30T11:50:22.837945+00:00"
+  },
+  {
+    "report_id": "COMP-SHP-2026-000041",
+    "shipment_id": "SHP-2026-000041",
+    "product_id": "PROD-003",
+    "lot_id": "LOT-2026-000005",
+    "compliance_status": "INCONCLUSIVE",
+    "compliance_score": 70.0,
+    "total_readings": 163,
+    "valid_readings": 163,
+    "missing_readings": 0,
+    "excursion_count": 0,
+    "maximum_deviation": 0.0,
+    "maximum_excursion_duration": 0,
+    "calibration_status": "EXPIRED",
+    "custody_completeness": 100.0,
+    "policy_version": "v1.0",
+    "reason_codes": [
+      "LOGGER_CALIBRATION_EXPIRED"
+    ],
+    "evidence_references": [
+      "Logger LOG-2026-0001 calibration expired on 2026-07-11T00:00:00+00:00"
+    ],
+    "generated_at": "2026-10-30T11:50:27.586518+00:00"
+  },
+  {
+    "report_id": "COMP-SHP-2026-000042",
+    "shipment_id": "SHP-2026-000042",
+    "product_id": "PROD-005",
+    "lot_id": "LOT-2026-000008",
+    "compliance_status": "NON_COMPLIANT",
+    "compliance_score": 33.1,
+    "total_readings": 151,
+    "valid_readings": 151,
+    "missing_readings": 0,
+    "excursion_count": 1,
+    "maximum_deviation": 3.45,
+    "maximum_excursion_duration": 100,
+    "calibration_status": "EXPIRED",
+    "custody_completeness": 100.0,
+    "policy_version": "v1.0",
+    "reason_codes": [
+      "LOGGER_CALIBRATION_EXPIRED",
+      "TEMPERATURE_EXCURSION_EXCEEDED"
+    ],
+    "evidence_references": [
+      "Logger LOG-2026-0002 calibration expired on 2026-06-09T00:00:00+00:00",
+      "Excursion EXCR-SHP-2026-000-01 duration (100 mins) exceeded allowable limit (15 mins). Observed: [-146.55\u00b0C, -146.55\u00b0C]."
+    ],
+    "generated_at": "2026-10-30T11:50:32.2842+00:00"
+  },
+  {
+    "report_id": "COMP-SHP-2026-000043",
+    "shipment_id": "SHP-2026-000043",
+    "product_id": "PROD-002",
+    "lot_id": "LOT-2026-000004",
+    "compliance_status": "INCONCLUSIVE",
+    "compliance_score": 70.0,
+    "total_readings": 109,
+    "valid_readings": 109,
+    "missing_readings": 0,
+    "excursion_count": 0,
+    "maximum_deviation": 0.0,
+    "maximum_excursion_duration": 0,
+    "calibration_status": "EXPIRED",
+    "custody_completeness": 100.0,
+    "policy_version": "v1.0",
+    "reason_codes": [
+      "LOGGER_CALIBRATION_EXPIRED"
+    ],
+    "evidence_references": [
+      "Logger LOG-2026-0003 calibration expired on 2026-10-04T00:00:00+00:00"
+    ],
+    "generated_at": "2026-10-30T11:50:36.828018+00:00"
+  },
+  {
+    "report_id": "COMP-SHP-2026-000044",
+    "shipment_id": "SHP-2026-000044",
+    "product_id": "PROD-006",
+    "lot_id": "LOT-2026-000001",
+    "compliance_status": "INCONCLUSIVE",
+    "compliance_score": 70.0,
+    "total_readings": 133,
+    "valid_readings": 133,
+    "missing_readings": 0,
+    "excursion_count": 1,
+    "maximum_deviation": 2.85,
+    "maximum_excursion_duration": 80,
+    "calibration_status": "EXPIRED",
+    "custody_completeness": 100.0,
+    "policy_version": "v1.0",
+    "reason_codes": [
+      "LOGGER_CALIBRATION_EXPIRED"
+    ],
+    "evidence_references": [
+      "Logger LOG-2026-0004 calibration expired on 2026-04-24T00:00:00+00:00"
+    ],
+    "generated_at": "2026-10-30T11:50:41.310992+00:00"
+  },
+  {
+    "report_id": "COMP-SHP-2026-000045",
+    "shipment_id": "SHP-2026-000045",
+    "product_id": "PROD-002",
+    "lot_id": "LOT-2026-000004",
+    "compliance_status": "INCONCLUSIVE",
+    "compliance_score": 70.0,
+    "total_readings": 91,
+    "valid_readings": 91,
+    "missing_readings": 0,
+    "excursion_count": 0,
+    "maximum_deviation": 0.0,
+    "maximum_excursion_duration": 0,
+    "calibration_status": "EXPIRED",
+    "custody_completeness": 100.0,
+    "policy_version": "v1.0",
+    "reason_codes": [
+      "LOGGER_CALIBRATION_EXPIRED"
+    ],
+    "evidence_references": [
+      "Logger LOG-2026-0005 calibration expired on 2026-07-25T00:00:00+00:00"
+    ],
+    "generated_at": "2026-10-30T11:50:46.015527+00:00"
+  },
+  {
+    "report_id": "COMP-SHP-2026-000046",
+    "shipment_id": "SHP-2026-000046",
+    "product_id": "PROD-006",
+    "lot_id": "LOT-2026-000001",
+    "compliance_status": "INCONCLUSIVE",
+    "compliance_score": 70.0,
+    "total_readings": 115,
+    "valid_readings": 115,
+    "missing_readings": 0,
+    "excursion_count": 0,
+    "maximum_deviation": 0.0,
+    "maximum_excursion_duration": 0,
+    "calibration_status": "EXPIRED",
+    "custody_completeness": 100.0,
+    "policy_version": "v1.0",
+    "reason_codes": [
+      "LOGGER_CALIBRATION_EXPIRED"
+    ],
+    "evidence_references": [
+      "Logger LOG-2026-0006 calibration expired on 2026-06-16T00:00:00+00:00"
+    ],
+    "generated_at": "2026-10-30T11:50:50.53122+00:00"
+  },
+  {
+    "report_id": "COMP-SHP-2026-000047",
+    "shipment_id": "SHP-2026-000047",
+    "product_id": "PROD-001",
+    "lot_id": "LOT-2026-000009",
+    "compliance_status": "INCONCLUSIVE",
+    "compliance_score": 70.0,
+    "total_readings": 181,
+    "valid_readings": 181,
+    "missing_readings": 0,
+    "excursion_count": 0,
+    "maximum_deviation": 0.0,
+    "maximum_excursion_duration": 0,
+    "calibration_status": "EXPIRED",
+    "custody_completeness": 100.0,
+    "policy_version": "v1.0",
+    "reason_codes": [
+      "LOGGER_CALIBRATION_EXPIRED"
+    ],
+    "evidence_references": [
+      "Logger LOG-2026-0007 calibration expired on 2026-07-16T00:00:00+00:00"
+    ],
+    "generated_at": "2026-10-30T11:50:55.362767+00:00"
+  },
+  {
+    "report_id": "COMP-SHP-2026-000048",
+    "shipment_id": "SHP-2026-000048",
+    "product_id": "PROD-003",
+    "lot_id": "LOT-2026-000005",
+    "compliance_status": "INCONCLUSIVE",
+    "compliance_score": 70.0,
+    "total_readings": 139,
+    "valid_readings": 139,
+    "missing_readings": 0,
+    "excursion_count": 0,
+    "maximum_deviation": 0.0,
+    "maximum_excursion_duration": 0,
+    "calibration_status": "EXPIRED",
+    "custody_completeness": 100.0,
+    "policy_version": "v1.0",
+    "reason_codes": [
+      "LOGGER_CALIBRATION_EXPIRED"
+    ],
+    "evidence_references": [
+      "Logger LOG-2026-0008 calibration expired on 2026-08-24T00:00:00+00:00"
+    ],
+    "generated_at": "2026-10-30T11:50:59.788475+00:00"
+  },
+  {
+    "report_id": "COMP-SHP-2026-000049",
+    "shipment_id": "SHP-2026-000049",
+    "product_id": "PROD-002",
+    "lot_id": "LOT-2026-000004",
+    "compliance_status": "NON_COMPLIANT",
+    "compliance_score": 33.1,
+    "total_readings": 103,
+    "valid_readings": 103,
+    "missing_readings": 0,
+    "excursion_count": 1,
+    "maximum_deviation": 3.45,
+    "maximum_excursion_duration": 100,
+    "calibration_status": "EXPIRED",
+    "custody_completeness": 100.0,
+    "policy_version": "v1.0",
+    "reason_codes": [
+      "LOGGER_CALIBRATION_EXPIRED",
+      "TEMPERATURE_EXCURSION_EXCEEDED"
+    ],
+    "evidence_references": [
+      "Logger LOG-2026-0009 calibration expired on 2026-04-22T00:00:00+00:00",
+      "Excursion EXCR-SHP-2026-000-01 duration (100 mins) exceeded allowable limit (60 mins). Observed: [11.45\u00b0C, 11.45\u00b0C]."
+    ],
+    "generated_at": "2026-10-30T11:51:04.247229+00:00"
+  },
+  {
+    "report_id": "COMP-SHP-2026-000050",
+    "shipment_id": "SHP-2026-000050",
+    "product_id": "PROD-003",
+    "lot_id": "LOT-2026-000005",
+    "compliance_status": "INCONCLUSIVE",
+    "compliance_score": 70.0,
+    "total_readings": 145,
+    "valid_readings": 145,
+    "missing_readings": 0,
+    "excursion_count": 0,
+    "maximum_deviation": 0.0,
+    "maximum_excursion_duration": 0,
+    "calibration_status": "EXPIRED",
+    "custody_completeness": 100.0,
+    "policy_version": "v1.0",
+    "reason_codes": [
+      "LOGGER_CALIBRATION_EXPIRED"
+    ],
+    "evidence_references": [
+      "Logger LOG-2026-0010 calibration expired on 2026-09-06T00:00:00+00:00"
+    ],
+    "generated_at": "2026-10-30T11:51:08.637535+00:00"
+  }
+]

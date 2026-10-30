@@ -1,0 +1,6 @@
+anomaly_id,issue_type,entity_type,entity_id,expected_label,expected_decision,evidence_reference,description
+GT-ANOM-0001,UNASSIGNED_LOGGER,shipment,SHP-2026-000001,UNASSIGNED_LOGGER,UNDER_REVIEW,Readings produced by logger LOG-2026-0001 without valid assignment to SHP-2026-000001,Temperature readings injected for logger that lacks active assignment record to shipment.
+GT-ANOM-0002,POLICY_MISMATCH,shipment,SHP-2026-000002,POLICY_MISMATCH,UNDER_REVIEW,Applied policy POL-PROD-001-01 belongs to PROD-001 instead of PROD-002,Wrong threshold policy applied to shipment.
+GT-ANOM-0003,MISSING_DATA,shipment,SHP-2026-000003,MISSING_DATA,INCONCLUSIVE,Missing readings between 2026-02-15T17:00:00+00:00 and 2026-02-15T20:00:00+00:00,Telemetry communication outage injected during transit.
+GT-ANOM-0004,CUSTODY_GAP,shipment,SHP-2026-000004,CUSTODY_GAP,UNDER_REVIEW,Broken handoff chain: DHL LifeSciences Express Pickup Crew handed over to Unknown Freight Broker without receipt transfer,Custody gap injected where handoff recipient does not match next custodian.
+GT-ANOM-0005,CROSS_SHIPMENT_DURATION,shipment,SHP-2026-000005,CROSS_SHIPMENT_DURATION,NON_COMPLIANT,Excursion calculation cross-contaminated with readings from neighboring shipment,Overlapping excursion duration incorrectly computed across unrelated shipments.

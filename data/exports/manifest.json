@@ -1,0 +1,75 @@
+{
+  "platform": "ColdChain IQ",
+  "version": "1.0.0",
+  "exported_at": "2026-10-30T11:52:52.184007+00:00",
+  "export_directory": "D:\\vs\\COLDCHAIN IQ PLATFORM\\data\\exports",
+  "tables": {
+    "products": {
+      "record_count": 6,
+      "csv_file": "products.csv",
+      "csv_sha256": "89f06fed8e54259d47650027f651fca5c0ffda951c561c27571349127a14c036",
+      "json_file": "products.json"
+    },
+    "lots": {
+      "record_count": 9,
+      "csv_file": "lots.csv",
+      "csv_sha256": "15e6cba542a99774e412f9bcfbe5f02a4acc4acc128b26e54c67ebe17d202597",
+      "json_file": "lots.json"
+    },
+    "shipments": {
+      "record_count": 50,
+      "csv_file": "shipments.csv",
+      "csv_sha256": "9fd23bd764bd79fd73c024ffbd8629b5b0fbcf51a562fda063a356b1e3a4e82b",
+      "json_file": "shipments.json"
+    },
+    "packaging": {
+      "record_count": 5,
+      "csv_file": "packaging.csv",
+      "csv_sha256": "ac3da19689e67c1c63561c5c192996405c9d44aec07c8c8152a1177c32b45201",
+      "json_file": "packaging.json"
+    },
+    "loggers": {
+      "record_count": 25,
+      "csv_file": "loggers.csv",
+      "csv_sha256": "da4b6bb5802342f6bf3eda0ba9c6431ff0ceb6a1a26224ccb3863b932493b4e3",
+      "json_file": "loggers.json"
+    },
+    "temperature_readings": {
+      "record_count": 1000,
+      "csv_file": "temperature_readings.csv",
+      "csv_sha256": "c7a87995c3446220f94ca1d8599ac3a910191b37e75767b5eddba60070a19ab9",
+      "json_file": "temperature_readings.json"
+    },
+    "custody_events": {
+      "record_count": 100,
+      "csv_file": "custody_events.csv",
+      "csv_sha256": "10fc7aa09147a2ee672f258a73d5561863353df42fee5673c1306865dd3f813d",
+      "json_file": "custody_events.json"
+    },
+    "route_stops": {
+      "record_count": 150,
+      "csv_file": "route_stops.csv",
+      "csv_sha256": "e40fc76ddb27db8ae441008820402b271d33a88458f3d47578bdfc6d98a01999",
+      "json_file": "route_stops.json"
+    },
+    "threshold_policies": {
+      "record_count": 6,
+      "csv_file": "threshold_policies.csv",
+      "csv_sha256": "ffb32eeaac6c78911afea0a2d56eaf941854755d64ddea33e1879e3a3d4dedc9",
+      "json_file": "threshold_policies.json"
+    },
+    "excursion_reports": {
+      "record_count": 0,
+      "csv_file": "excursion_reports.csv",
+      "csv_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "json_file": "excursion_reports.json"
+    },
+    "compliance_reports": {
+      "record_count": 50,
+      "csv_file": "compliance_reports.csv",
+      "csv_sha256": "ddf9f5541e655a700a09c8627aab77ac6cc781bbbf917f3d7715b0a4a19e994d",
+      "json_file": "compliance_reports.json"
+    }
+  },
+  "sql_seed": "seed_operational_dataset.sql"
+}

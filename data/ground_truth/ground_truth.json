@@ -1,0 +1,52 @@
+[
+  {
+    "anomaly_id": "GT-ANOM-0001",
+    "issue_type": "UNASSIGNED_LOGGER",
+    "entity_type": "shipment",
+    "entity_id": "SHP-2026-000001",
+    "expected_label": "UNASSIGNED_LOGGER",
+    "expected_decision": "UNDER_REVIEW",
+    "evidence_reference": "Readings produced by logger LOG-2026-0001 without valid assignment to SHP-2026-000001",
+    "description": "Temperature readings injected for logger that lacks active assignment record to shipment."
+  },
+  {
+    "anomaly_id": "GT-ANOM-0002",
+    "issue_type": "POLICY_MISMATCH",
+    "entity_type": "shipment",
+    "entity_id": "SHP-2026-000002",
+    "expected_label": "POLICY_MISMATCH",
+    "expected_decision": "UNDER_REVIEW",
+    "evidence_reference": "Applied policy POL-PROD-001-01 belongs to PROD-001 instead of PROD-002",
+    "description": "Wrong threshold policy applied to shipment."
+  },
+  {
+    "anomaly_id": "GT-ANOM-0003",
+    "issue_type": "MISSING_DATA",
+    "entity_type": "shipment",
+    "entity_id": "SHP-2026-000003",
+    "expected_label": "MISSING_DATA",
+    "expected_decision": "INCONCLUSIVE",
+    "evidence_reference": "Missing readings between 2026-02-15T17:00:00+00:00 and 2026-02-15T20:00:00+00:00",
+    "description": "Telemetry communication outage injected during transit."
+  },
+  {
+    "anomaly_id": "GT-ANOM-0004",
+    "issue_type": "CUSTODY_GAP",
+    "entity_type": "shipment",
+    "entity_id": "SHP-2026-000004",
+    "expected_label": "CUSTODY_GAP",
+    "expected_decision": "UNDER_REVIEW",
+    "evidence_reference": "Broken handoff chain: DHL LifeSciences Express Pickup Crew handed over to Unknown Freight Broker without receipt transfer",
+    "description": "Custody gap injected where handoff recipient does not match next custodian."
+  },
+  {
+    "anomaly_id": "GT-ANOM-0005",
+    "issue_type": "CROSS_SHIPMENT_DURATION",
+    "entity_type": "shipment",
+    "entity_id": "SHP-2026-000005",
+    "expected_label": "CROSS_SHIPMENT_DURATION",
+    "expected_decision": "NON_COMPLIANT",
+    "evidence_reference": "Excursion calculation cross-contaminated with readings from neighboring shipment",
+    "description": "Overlapping excursion duration incorrectly computed across unrelated shipments."
+  }
+]
